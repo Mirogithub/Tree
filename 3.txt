@@ -2,3 +2,4 @@ My first comment in this third file
 My second comment
 Created a new brech and added this comment (locally)
 Making a new change in this document. (thirdDoc)
+I want to merge thirdDoc branch with master branch
