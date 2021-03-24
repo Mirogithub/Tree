@@ -1,1 +1,2 @@
 This is my first comment in the second document
+My second comment in the second document
