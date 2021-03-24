@@ -3,3 +3,4 @@ My second comment
 Created a new brech and added this comment (locally)
 Making a new change in this document. (thirdDoc)
 I want to merge thirdDoc branch with master branch
+- Now I`m adding this comment on the master branch (remotely). [After writing the comment in the MyNewBranch]
